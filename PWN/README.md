@@ -59,7 +59,7 @@ So, I will find the position of output to see if there're hex values of this. Re
 ![flag_position](https://github.com/OceanTran999/KnightCTF2024/assets/100577019/5613367b-18b9-4736-a9c7-b658d02012b9)
 
 
-Great!!! It's in the 6th position of output. Copy and paste to the Hex to String Converter online, this is the flag. So I just write the script to convert to these hex values into little endian and get the flag.
+Great!!! It's in the 6th position of output. Copy and paste to the Hex to String Converter online, this is the flag. So I just write the script to convert to these hex values into big endian and get the flag.
 
 ![hex_to_str](https://github.com/OceanTran999/KnightCTF2024/assets/100577019/c71424c8-fefd-4dc7-9860-6a1e555dd60b)
 
