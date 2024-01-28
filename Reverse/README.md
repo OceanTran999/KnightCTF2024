@@ -1,7 +1,7 @@
 ---
 **NOTE**
 
-In Reverse Engineer challenges, I usually change value, name of variables, functions to make the solution easier.
+It works with almost all markdown flavours (the below blank line matters).
 
 ---
 
