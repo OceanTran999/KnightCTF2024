@@ -1,9 +1,4 @@
----
-**NOTE**
-
-It works with almost all markdown flavours (the below blank line matters).
-
----
+> **_NOTE:_**  In Reverse Engineer challenges, I usually change the name, value of variables and functions to make the solution easier.
 
 # Dragon Binary
 
