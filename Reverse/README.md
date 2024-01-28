@@ -34,6 +34,6 @@ Before calling the `func1()`, it will call the `func2()` first, and handle the p
 ![Func4](https://github.com/OceanTran999/KnightCTF2024/assets/100577019/9ed27fc1-c26d-43f1-b6db-9f2600148124)
 
 
-In `func3()` and `func4(), it handles each characters in the pass key, if the character is in `A-Z`, it will computes different the `a-z`. Knowing this, we just write the script and printing the final pass key to get the flag.
+In `func3()` and `func4()`, it handles each characters in the pass key, if the character is in `A-Z`, it will computes different the `a-z`. Knowing this, we just write the script and printing the final pass key to get the flag.
 
 ![Flag](https://github.com/OceanTran999/KnightCTF2024/assets/100577019/7123f734-6c17-4f38-92fa-f363872b9470)
